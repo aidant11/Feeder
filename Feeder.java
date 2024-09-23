@@ -42,10 +42,10 @@ public class Feeder {
         int days = 0;
         return 0;
     }
+    
     public String toString()
     {
         return "Current Food: " + currentFood;
     }
-
 }
 
